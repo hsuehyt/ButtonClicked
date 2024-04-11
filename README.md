@@ -1,6 +1,6 @@
 # MyOperators
 
-The `MyOperators` script is a simple Unity MonoBehaviour class that demonstrates how to interact with UI elements using the TextMeshProUGUI component. Let's break down what this script does:
+The `ButtonClicked` script is a simple Unity MonoBehaviour class that demonstrates how to interact with UI elements using the TextMeshProUGUI component. Let's break down what this script does:
 
 ## Overview
 - **Purpose**: To display a message when a button is clicked.
